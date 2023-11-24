@@ -23,7 +23,9 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 
 ## Projects
 
-**Yocto/Hair**: Developement of a tiny path tracer extension to shade realistic-looking hair. [github.com/dsforza96/yocto-hair](https://github.com/dsforza96/yocto-hair)
+**Yocto/Hair:** Tiny Path Tracer Extension to Shade Realistic-Looking Hair. [github.com/dsforza96/yocto-hair](https://github.com/dsforza96/yocto-hair)
+
+**AtA-gpu:** A Strassen-based CUDA Implementation of AtA Matrix Multiplication. [github.com/dsforza96/AtA-gpu](https://github.com/dsforza96/AtA-gpu)
 
 
 
