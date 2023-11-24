@@ -22,6 +22,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+titles_from_headings:
+  enabled: false
+
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
