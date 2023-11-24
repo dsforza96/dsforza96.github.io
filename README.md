@@ -1,4 +1,7 @@
-# Davide Sforza
+---
+layout: page
+title: About
+---
 
 Ph.D. Student in Computer Science at Sapienza University of Rome
 
