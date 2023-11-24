@@ -23,22 +23,17 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 
 ## Projects
 
-### Yocto/Hair
-Tiny Path Tracer Extension to Shade Realistic-Looking Hair.
+**Yocto/Hair:** Tiny Path Tracer Extension to Shade Realistic-Looking Hair. \
 [github.com/dsforza96/yocto-hair](https://github.com/dsforza96/yocto-hair)
 
-### AtA-gpu
-A Strassen-based CUDA Implementation of AtA Matrix Multiplication.
+**AtA-gpu:** A Strassen-based CUDA Implementation of AtA Matrix Multiplication. \
 [github.com/dsforza96/AtA-gpu](https://github.com/dsforza96/AtA-gpu)
 
-### Next!
-A multimodal tool to remote control your presentations.
+**Next!** A multimodal tool to remote control your presentations. \
 [github.com/antoniomuso/Next](https://github.chttps://github.com/antoniomuso/Next)
 
-### The Visual Microphone
-Passive Recovery of Sound from Video.
+**The Visual Microphone:** Passive Recovery of Sound from Video. \
 [github.com/dsforza96/visual-mic](https://github.com/dsforza96/visual-mic)
 
-### Tree-gen
-Generating Trees with a Space Colonization Algorithm.
+**Tree-gen:** Generating Trees with a Space Colonization Algorithm. \
 [github.com/dsforza96/tree-gen](https://github.com/dsforza96/tree-gen)
