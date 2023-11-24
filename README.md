@@ -1,4 +1,3 @@
-## Davide Sforza
 
 Ph.D. Student in Computer Science at Sapienza University of Rome
 
