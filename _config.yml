@@ -1,7 +1,7 @@
 title: Davide Sforza
 author:
-  name: Davide Sforza
-  email: sforza@di.uniroma1.it
+ name: Davide Sforza
+ email: sforza@di.uniroma1.it
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -42,7 +42,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: solarized-light
+  skin: solarized-light 
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
@@ -51,7 +51,7 @@ minima:
 
   # Generate social links in footer.
   social_links:
-    - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+    { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
