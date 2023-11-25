@@ -17,7 +17,7 @@ Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Me
 
 <img style="float: left; margin-right: 16px;" src="images/refractive.jpg" width="200"/>
 
-**Davide Sforza** and Fabio Pellacini. Numerical approximations for energy preserving microfacet models. In *Computers & Graphics*. 2023. DOI: [10.1016/j.cag.2023.05.012](https://doi.org/10.1016/j.cag.2023.05.012).
+**Davide Sforza** and Fabio Pellacini. Numerical approximations for energy preserving microfacet models. In *Computers & Graphics*. 2023. DOI: [10.1016/j.cag.2023.05.012](https://doi.org/10.1016/j.cag.2023.05.012)
 
 <img style="float: left; margin-bottom: 32px;" src="images/gold.jpg" width="100"/>
 <img style="float: left; margin-right: 16px; margin-bottom: 32px;" src="images/glass.jpg" width="100"/>
@@ -27,7 +27,7 @@ Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Me
 <img style="float: left; margin-right: 4px;" src="images/circles.gif" width="98"/>
 <img style="float: left; margin-right: 16px;" src="images/stripes.gif" width="98"/>
 
-Marzia Riso, **Davide Sforza**, and Fabio Pellacini. pOp: Parameter Optimization of Differentiable Vector Patterns. In *Computer Graphics Forum*. 2022. DOI: [10.1111/cgf.14595](https://doi.org/10.1111/cgf.14595).
+Marzia Riso, **Davide Sforza**, and Fabio Pellacini. pOp: Parameter Optimization of Differentiable Vector Patterns. In *Computer Graphics Forum*. 2022. DOI: [10.1111/cgf.14595](https://doi.org/10.1111/cgf.14595)
 <br/><br/>
 
 <img style="float: left; margin-right: 16px;" src="images/bowling.jpg" width="200"/>
