@@ -14,12 +14,12 @@ Rendering with Neural Lenses. In progress.
 
 Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Merging Node Graphs. In *ACM Transactions on Graphics*. 2023. DOI: [10.1145/3618343](https://doi.org/10.1145/3618343). Code: TBR <br/><br/>
 
-<img style="float: left; margin-right: 16px;" src="images/refractive.jpg" width="200"/>
+<img style="float: left; margin-right: 16px; margin-top: 8px;" src="images/refractive.jpg" width="200"/>
 
 **Davide Sforza** and Fabio Pellacini. Numerical approximations for energy preserving microfacet models. In *Computers & Graphics*. 2023. DOI: [10.1016/j.cag.2023.05.012](https://doi.org/10.1016/j.cag.2023.05.012). <br/><br/>
 
-<img style="float: left;" src="images/gold.jpg" width="100"/>
-<img style="float: left; margin-right: 16px;" src="images/glass.jpg" width="100"/>
+<img style="float: left; margin-top: 8px;" src="images/gold.jpg" width="100"/>
+<img style="float: left; margin-right: 16px; margin-top: 8px;" src="images/glass.jpg" width="100"/>
 
 **Davide Sforza** and Fabio Pellacini. Enforcing Energy Preservation in Microfacet Models. In *Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference*. 2022. DOI: [10.2312/stag.20221258](https://doi.org/10.2312/stag.20221258). Code: [github.com/dsforza96/energy-preservation](https://github.com/dsforza96/energy-preservation)
 
@@ -36,26 +36,26 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 
 ## Projects
 
-<img style="float: left;" src="images/brown.jpg" height="64"/>
-<img style="float: left; margin-right: 16px;" src="images/blonde.jpg" height="64"/>
+<img style="float: left;" src="images/brown.jpg" width="64"/>
+<img style="float: left; margin-right: 16px;" src="images/blonde.jpg" width="64"/>
 
 **Yocto/Hair:** Tiny Path Tracer Extension to Shade Realistic-Looking Hair. \
 [github.com/dsforza96/yocto-hair](https://github.com/dsforza96/yocto-hair)
 <br/><br/>
 
-<img style="float: left; margin-right: 140px" height="50"/>
+<img style="float: left; margin-right: 144px" height="64"/>
 
 **AtA-gpu:** A Strassen-based CUDA Implementation of AtA Matrix Multiplication. \
 [github.com/dsforza96/AtA-gpu](https://github.com/dsforza96/AtA-gpu)
 <br/><br/>
 
-<img style="float: left; margin-left: 4px; margin-right: 16px;" src="images/finger_snap.gif" height="64"/>
+<img style="float: left; margin-left: 4px; margin-right: 16px;" src="images/finger_snap.gif" width="128"/>
 
 **Next!** A multimodal tool to remote control your presentations. \
 [github.com/antoniomuso/Next](https://github.chttps://github.com/antoniomuso/Next)
 <br/><br/>
 
-<img style="float: left; margin-right: 140px" height="32"/>
+<img style="float: left; margin-right: 144px" height="64"/>
 
 **The Visual Microphone:** Passive Recovery of Sound from Video. \
 [github.com/dsforza96/visual-mic](https://github.com/dsforza96/visual-mic)
