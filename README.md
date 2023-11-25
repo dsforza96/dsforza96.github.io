@@ -44,7 +44,7 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 [github.com/dsforza96/yocto-hair](https://github.com/dsforza96/yocto-hair)
 <br/><br/>
 
-<img style="float: left; margin-right: 148px" height="64"/>
+<img style="float: left; margin-right: 144px" height="64"/>
 
 **AtA-gpu:** A Strassen-based CUDA Implementation of AtA Matrix Multiplication. \
 [github.com/dsforza96/AtA-gpu](https://github.com/dsforza96/AtA-gpu)
@@ -56,14 +56,14 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 [github.com/antoniomuso/Next](https://github.chttps://github.com/antoniomuso/Next)
 <br/><br/>
 
-<img style="float: left; margin-right: 148px" height="64"/>
+<img style="float: left; margin-right: 144px" height="64"/>
 
 **The Visual Microphone:** Passive Recovery of Sound from Video. \
 [github.com/dsforza96/visual-mic](https://github.com/dsforza96/visual-mic)
 <br/><br/>
 
-<img style="float: left; margin-right: 4px; " src="images/simple.jpg" height="68"/>
-<img style="float: left; margin-right: 16px" src="images/cypress.jpg" height="68"/>
+<img style="float: left; margin-right: 4px; " src="images/simple.jpg" height="64"/>
+<img style="float: left; margin-right: 16px" src="images/cypress.jpg" height="64"/>
 
 **Tree-gen:** Generating Trees with a Space Colonization Algorithm. \
 [github.com/dsforza96/tree-gen](https://github.com/dsforza96/tree-gen)
