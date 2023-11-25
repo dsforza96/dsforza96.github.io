@@ -10,11 +10,17 @@ Rendering with Neural Lenses. In progress.
 
 ## Publications
 
-<table><tr><td style="border:0px;" valign="center"><img style="float: left; margin-right: 1em;" src="figures/nodegit.jpg" height="100"/> Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Merging Node Graphs. In *ACM Transactions on Graphics*. 2023. DOI: [10.1145/3618343](https://doi.org/10.1145/3618343). Code: TBR </td></tr></table>
+<img style="float: left; margin-right: 1em;" src="figures/nodegit.jpg" height="100"/>
 
-<table><tr><td valign="center"><img style="float: left; margin-right: 1em;" src="figures/glass.jpg" height="100"/> Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Merging Node Graphs. In *ACM Transactions on Graphics*. 2023. DOI: [10.1145/3618343](https://doi.org/10.1145/3618343). Code: TBR </td></tr></table>
+Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Merging Node Graphs. In *ACM Transactions on Graphics*. 2023. DOI: [10.1145/3618343](https://doi.org/10.1145/3618343). Code: TBR <br/><br/>
+
+<img style="float: left; margin-right: 1em; margin-left: 28px;" src="figures/glass.jpg" height="100"/>
 
 **Davide Sforza** and Fabio Pellacini. Numerical approximations for energy preserving microfacet models. In *Computers & Graphics*. 2023. DOI: [10.1016/j.cag.2023.05.012](https://doi.org/10.1016/j.cag.2023.05.012).
+
+<br/><br/>
+
+<img style="float: left; margin-right: 1em; margin-left: 28px;" src="figures/glass.jpg" height="100"/>
 
 **Davide Sforza** and Fabio Pellacini. Enforcing Energy Preservation in Microfacet Models. In *Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference*. 2022. DOI: [10.2312/stag.20221258](https://doi.org/10.2312/stag.20221258). Code: [github.com/dsforza96/energy-preservation](https://github.com/dsforza96/energy-preservation)
 
