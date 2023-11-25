@@ -39,7 +39,7 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 
 **Yocto/Hair:** Tiny Path Tracer Extension to Shade Realistic-Looking Hair. \
 [github.com/dsforza96/yocto-hair](https://github.com/dsforza96/yocto-hair)
-<br/><br/>
+
 
 <img style="float: left; margin-right: 140px" height="50"/>
 
@@ -50,7 +50,7 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 
 **Next!** A multimodal tool to remote control your presentations. \
 [github.com/antoniomuso/Next](https://github.chttps://github.com/antoniomuso/Next)
-<br/><br/>
+
 
 <img style="float: left; margin-right: 140px" height="32"/>
 
