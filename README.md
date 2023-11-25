@@ -10,11 +10,11 @@ Rendering with Neural Lenses. In progress.
 
 ## Publications
 
-<img style="float: left; margin-right: 1em;" src="figures/nodegit.jpg" height="96"/>
+<img style="float: right; margin-left: 1em;" src="figures/nodegit.jpg" height="100"/>
 
 Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Merging Node Graphs. In *ACM Transactions on Graphics*. 2023. DOI: [10.1145/3618343](https://doi.org/10.1145/3618343). Code: TBR
 
-<img style="float: left; margin-right: 1em;" src="figures/glass.jpg" height="96"/>
+<img style="float: right; margin-left: 1em;" src="figures/glass.jpg" height="100"/>
 
 **Davide Sforza** and Fabio Pellacini. Numerical approximations for energy preserving microfacet models. In *Computers & Graphics*. 2023. DOI: [10.1016/j.cag.2023.05.012](https://doi.org/10.1016/j.cag.2023.05.012).
 
@@ -27,17 +27,25 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 
 ## Projects
 
+<img style="float: right;" src="figures/brown.jpg" height="64"/>
+<img style="float: right; margin-left: 1em;" src="figures/blonde.jpg" height="64"/>
+
 **Yocto/Hair:** Tiny Path Tracer Extension to Shade Realistic-Looking Hair. \
 [github.com/dsforza96/yocto-hair](https://github.com/dsforza96/yocto-hair)
 
 **AtA-gpu:** A Strassen-based CUDA Implementation of AtA Matrix Multiplication. \
 [github.com/dsforza96/AtA-gpu](https://github.com/dsforza96/AtA-gpu)
 
+<img style="float: right; margin-left: 1em;" src="figures/finger_snap.gif" height="64"/>
+
 **Next!** A multimodal tool to remote control your presentations. \
 [github.com/antoniomuso/Next](https://github.chttps://github.com/antoniomuso/Next)
 
 **The Visual Microphone:** Passive Recovery of Sound from Video. \
 [github.com/dsforza96/visual-mic](https://github.com/dsforza96/visual-mic)
+
+<img style="float: right; margin-left: .25em;" src="figures/cypress.jpg" height="64"/>
+<img style="float: right; margin-left: 1em;" src="figures/simple.jpg" height="64"/>
 
 **Tree-gen:** Generating Trees with a Space Colonization Algorithm. \
 [github.com/dsforza96/tree-gen](https://github.com/dsforza96/tree-gen)
