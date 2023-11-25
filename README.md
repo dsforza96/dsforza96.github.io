@@ -12,14 +12,15 @@ Rendering with Neural Lenses. In progress.
 
 <img style="float: left; margin-right: 16px;" src="images/nodegit.jpg" width="200"/>
 
-Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Merging Node Graphs. In *ACM Transactions on Graphics*. 2023. DOI: [10.1145/3618343](https://doi.org/10.1145/3618343). Code: TBR <br/><br/>
+Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Merging Node Graphs. In *ACM Transactions on Graphics*. 2023. DOI: [10.1145/3618343](https://doi.org/10.1145/3618343). Code: TBR
+<br/><br/>
 
-<img style="float: left; margin-right: 16px; margin-top: 8px;" src="images/refractive.jpg" width="200"/>
+<img style="float: left; margin-right: 16px;" src="images/refractive.jpg" width="200"/>
 
-**Davide Sforza** and Fabio Pellacini. Numerical approximations for energy preserving microfacet models. In *Computers & Graphics*. 2023. DOI: [10.1016/j.cag.2023.05.012](https://doi.org/10.1016/j.cag.2023.05.012). <br/><br/>
+**Davide Sforza** and Fabio Pellacini. Numerical approximations for energy preserving microfacet models. In *Computers & Graphics*. 2023. DOI: [10.1016/j.cag.2023.05.012](https://doi.org/10.1016/j.cag.2023.05.012).
 
-<img style="float: left; margin-top: 8px;" src="images/gold.jpg" width="100"/>
-<img style="float: left; margin-right: 16px; margin-top: 8px;" src="images/glass.jpg" width="100"/>
+<img style="float: left;" src="images/gold.jpg" width="100"/>
+<img style="float: left; margin-right: 16px;" src="images/glass.jpg" width="100"/>
 
 **Davide Sforza** and Fabio Pellacini. Enforcing Energy Preservation in Microfacet Models. In *Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference*. 2022. DOI: [10.2312/stag.20221258](https://doi.org/10.2312/stag.20221258). Code: [github.com/dsforza96/energy-preservation](https://github.com/dsforza96/energy-preservation)
 
