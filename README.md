@@ -62,8 +62,8 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 [github.com/dsforza96/visual-mic](https://github.com/dsforza96/visual-mic)
 <br/><br/>
 
-<img style="float: left; margin-right: 4px; " src="images/simple.jpg" height="64"/>
-<img style="float: left; margin-right: 16px" src="images/cypress.jpg" height="64"/>
+<img style="float: left; margin-right: 4px; " src="images/simple.jpg" height="68"/>
+<img style="float: left; margin-right: 16px" src="images/cypress.jpg" height="68"/>
 
 **Tree-gen:** Generating Trees with a Space Colonization Algorithm. \
 [github.com/dsforza96/tree-gen](https://github.com/dsforza96/tree-gen)
