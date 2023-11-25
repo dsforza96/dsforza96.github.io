@@ -50,7 +50,7 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 [github.com/dsforza96/AtA-gpu](https://github.com/dsforza96/AtA-gpu)
 <br/><br/>
 
-<img style="float: left; margin-left: 4px; margin-right: 16px;" src="images/finger_snap.gif" width="128"/>
+<img style="float: left; margin-right: 16px;" src="images/finger_snap.gif" width="128"/>
 
 **Next!** A multimodal tool to remote control your presentations. \
 [github.com/antoniomuso/Next](https://github.chttps://github.com/antoniomuso/Next)
