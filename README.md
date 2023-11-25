@@ -10,11 +10,11 @@ Rendering with Neural Lenses. In progress.
 
 ## Publications
 
-<img style="float: left;" src="figures/nodegit.jpg" height="64">
+<img style="float: left; margin-right: 1em;" src="figures/nodegit.jpg" height="64"/>
 
 Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Merging Node Graphs. In *ACM Transactions on Graphics*. 2023. DOI: [10.1145/3618343](https://doi.org/10.1145/3618343). Code: TBR
 
-<img style="float: left;" src="figures/nodegit.jpg" height="64">
+<img style="float: left; margin-right: 1em;" src="figures/nodegit.jpg" height="64"/>
 
 **Davide Sforza** and Fabio Pellacini. Numerical approximations for energy preserving microfacet models. In *Computers & Graphics*. 2023. DOI: [10.1016/j.cag.2023.05.012](https://doi.org/10.1016/j.cag.2023.05.012).
 
