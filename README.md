@@ -19,8 +19,8 @@ Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Me
 
 **Davide Sforza** and Fabio Pellacini. Numerical approximations for energy preserving microfacet models. In *Computers & Graphics*. 2023. DOI: [10.1016/j.cag.2023.05.012](https://doi.org/10.1016/j.cag.2023.05.012).
 
-<img style="float: left; margin-bottom: 32px;" src="images/gold.jpg" width="100"/>
-<img style="float: left; margin-right: 16px; margin-bottom: 32px;" src="images/glass.jpg" width="100"/>
+<img style="float: left; margin-bottom: 16px;" src="images/gold.jpg" width="100"/>
+<img style="float: left; margin-right: 16px; margin-bottom: 16px;" src="images/glass.jpg" width="100"/>
 
 **Davide Sforza** and Fabio Pellacini. Enforcing Energy Preservation in Microfacet Models. In *Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference*. 2022. DOI: [10.2312/stag.20221258](https://doi.org/10.2312/stag.20221258). Code: [github.com/dsforza96/energy-preservation](https://github.com/dsforza96/energy-preservation)
 
@@ -72,4 +72,4 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 
 ## Curriculum Vitae
 
-Download it here.
+Download it [here](cv.pdf).
