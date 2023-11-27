@@ -53,7 +53,7 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 <img style="float: left; margin-right: 16px;" src="images/finger_snap.gif" width="128"/>
 
 **Next!** A multimodal tool to remote control your presentations. \
-[github.com/antoniomuso/Next](https://github.chttps://github.com/antoniomuso/Next)
+[github.com/antoniomuso/Next](https://github.com/antoniomuso/Next)
 <br/><br/>
 
 <img style="float: left; margin-right: 144px" height="64"/>
