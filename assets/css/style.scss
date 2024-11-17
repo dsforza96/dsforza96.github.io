@@ -2,12 +2,13 @@
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+
+$link-base-color: #DE3412;
+$link-visited-color: #DE3412;
+
+@import "minima/initialize";
 
 header {
   display: none;
 }
-
-$link-base-color: #DE3412;
-$link-visited-color: #DE3412;
