@@ -5,19 +5,19 @@ Ph.D. Student in Computer Science at Sapienza University of Rome
 
 ## Publications
 
-<img style="float: left; margin-right: 4px;" src="images/target_rendering.jpg" width="98"/>
-<img style="float: left; margin-right: 16px;" src="images/result_rendering.jpg" width="98"/>
+<img style="float: left; margin-right: 2px;" src="images/target_rendering.jpg" width="99"/>
+<img style="float: left; margin-right: 16px;" src="images/result_rendering.jpg" width="99"/>
 
-<img style="float: left; margin-left: -216px; margin-top: 102px; margin-right: 4px;" src="images/initial_envmap.jpg" width="98"/>
-<img style="float: left; margin-left: -114px; margin-top: 102px; margin-right: 16px;" src="images/result_envmap.jpg" width="98"/>
+<img style="float: left; margin-left: -216px; margin-top: 101px; margin-right: 2px;" src="images/initial_envmap.jpg" width="99"/>
+<img style="float: left; margin-left: -115px; margin-top: 101px; margin-right: 16px;" src="images/result_envmap.jpg" width="99"/>
 
 Antonio D'Orazio, **Davide Sforza**, Fabio Pellacini, and Iacopo Masi. Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions. In *Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference*. 2024. DOI: [10.2312/stag.20241339](https://doi.org/10.2312/stag.20241339). Code: [github.com/OmnAI-Lab/R-SIREN](https://github.com/OmnAI-Lab/R-SIREN)
-<p>&nbsp;</p>
+<br/>
 
 <img style="float: left; margin-right: 16px;" src="images/nodegit.jpg" width="200"/>
 
 Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Merging Node Graphs. In *ACM Transactions on Graphics*. 2023. DOI: [10.1145/3618343](https://doi.org/10.1145/3618343). Code: [github.com/edu-rinaldi/NodeGit](https://github.com/edu-rinaldi/NodeGit)
-<p>&nbsp;</p>
+<br/><br/>
 
 <img style="float: left; margin-right: 16px;" src="images/refractive.jpg" width="200"/>
 
@@ -32,7 +32,7 @@ Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Me
 <img style="float: left; margin-right: 16px;" src="images/stripes.gif" width="98"/>
 
 Marzia Riso, **Davide Sforza**, and Fabio Pellacini. pOp: Parameter Optimization of Differentiable Vector Patterns. In *Computer Graphics Forum*. 2022. DOI: [10.1111/cgf.14595](https://doi.org/10.1111/cgf.14595)
-<p>&nbsp;</p>
+<br/><br/>
 
 <img style="float: left; margin-right: 16px;" src="images/bowling.jpg" width="200"/>
 
