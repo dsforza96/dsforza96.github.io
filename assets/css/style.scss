@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}/_base.scs";
 
 header {
   display: none;
