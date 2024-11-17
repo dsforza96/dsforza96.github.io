@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Ph.D. Student in Computer Science at Sapienza University of Rome | Viale Regina Elena 295, 00161 Roma | Building E | Room T04
+  Ph.D. Student in Computer Science at Sapienza University of Rome
 
 # Build settings
 
