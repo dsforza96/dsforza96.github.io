@@ -75,4 +75,4 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 
 ## Curriculum Vitae
 
-Download it [here](cv.pdf).
+Download my CV [here](cv.pdf).
