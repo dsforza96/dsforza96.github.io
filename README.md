@@ -12,7 +12,7 @@ Ph.D. Student in Computer Science at Sapienza University of Rome
 <img style="float: left; margin-left: -114px; margin-top: 102px; margin-right: 16px;" src="images/result_envmap.jpg" width="98"/>
 
 Antonio D'Orazio, **Davide Sforza**, Fabio Pellacini, and Iacopo Masi. Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions. In *Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference*. 2024. DOI: [10.2312/stag.20241339](https://doi.org/10.2312/stag.20241339). Code: [github.com/OmnAI-Lab/R-SIREN](https://github.com/OmnAI-Lab/R-SIREN)
-<br/><br/>
+<br/>
 
 <img style="float: left; margin-right: 16px;" src="images/nodegit.jpg" width="200"/>
 
