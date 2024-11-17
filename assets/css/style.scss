@@ -4,8 +4,8 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 
-$link-base-color: #F05F42;
-$link-visited-color: #F2765D;
+$link-base-color: #EE4C2C;
+$link-visited-color: #EE4C2C;
 
 @import "minima/initialize";
 
