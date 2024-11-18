@@ -5,8 +5,8 @@ Ph.D. Student in Computer Science at Sapienza University of Rome
 
 ## Publications
 
-<img style="float: left; margin-right: 2px;" src="images/target_rendering.jpg" width="99"/>
-<img style="float: left; margin-right: 16px; margin-bottom: 16px;" src="images/result_rendering.jpg" width="99"/>
+<img style="float: left; margin-right: 2px; margin-bottom: 8px;" src="images/target_rendering.jpg" width="99"/>
+<img style="float: left; margin-right: 16px; margin-bottom: 8px;" src="images/result_rendering.jpg" width="99"/>
 
 <img style="float: left; margin-left: -216px; margin-top: 97.5px; margin-right: 2px;" src="images/initial_envmap.jpg" width="99"/>
 <img style="float: left; margin-left: -115px; margin-top: 97.5px; margin-right: 16px;" src="images/result_envmap.jpg" width="99"/>
@@ -27,8 +27,8 @@ Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Me
 <br style="clear: both"/>
 
 
-<img style="float: left; margin-bottom: 32px;" src="images/gold.jpg" width="100"/>
-<img style="float: left; margin-right: 16px; margin-bottom: 32px;" src="images/glass.jpg" width="100"/>
+<img style="float: left; margin-bottom: 16px;" src="images/gold.jpg" width="100"/>
+<img style="float: left; margin-right: 16px; margin-bottom: 16px;" src="images/glass.jpg" width="100"/>
 
 **Davide Sforza** and Fabio Pellacini. Enforcing Energy Preservation in Microfacet Models. In *Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference*. 2022. DOI: [10.2312/stag.20221258](https://doi.org/10.2312/stag.20221258). Code: [github.com/dsforza96/energy-preservation](https://github.com/dsforza96/energy-preservation)
 <br style="clear: both"/>
