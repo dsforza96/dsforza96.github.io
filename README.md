@@ -5,8 +5,8 @@ Ph.D. Student in Computer Science at Sapienza University of Rome
 
 ## Publications
 
-<img style="float: left; margin-right: 2px; margin-bottom: 20px;" src="images/target_rendering.jpg" width="99"/>
-<img style="float: left; margin-right: 16px; margin-bottom: 20px;" src="images/result_rendering.jpg" width="99"/>
+<img style="float: left; margin-right: 2px; margin-bottom: 22px;" src="images/target_rendering.jpg" width="99"/>
+<img style="float: left; margin-right: 16px; margin-bottom: 22px;" src="images/result_rendering.jpg" width="99"/>
 
 <img style="float: left; margin-left: -216px; margin-top: 97.5px; margin-right: 2px;" src="images/initial_envmap.jpg" width="99"/>
 <img style="float: left; margin-left: -115px; margin-top: 97.5px; margin-right: 16px;" src="images/result_envmap.jpg" width="99"/>
@@ -85,3 +85,16 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 ## Curriculum Vitae
 
 Download my CV [here](cv.pdf).
+
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
