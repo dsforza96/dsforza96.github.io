@@ -31,7 +31,7 @@ Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Me
 <img style="float: left; margin-right: 16px;" src="images/stripes.gif" width="98"/>
 
 Marzia Riso, **Davide Sforza**, and Fabio Pellacini. pOp: Parameter Optimization of Differentiable Vector Patterns. In *Computer Graphics Forum*. 2022. DOI: [10.1111/cgf.14595](https://doi.org/10.1111/cgf.14595)
-<br/><br/>
+<br style="clear:both"/>
 
 <img style="float: left; margin-right: 16px;" src="images/bowling.jpg" width="200"/>
 
