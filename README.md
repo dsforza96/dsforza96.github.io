@@ -27,8 +27,8 @@ Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Me
 <br style="clear: both"/>
 
 
-<img style="float: left; margin-bottom: 16px;" src="images/gold.jpg" width="100"/>
-<img style="float: left; margin-right: 16px; margin-bottom: 16px;" src="images/glass.jpg" width="100"/>
+<img style="float: left; margin-bottom: 18px;" src="images/gold.jpg" width="100"/>
+<img style="float: left; margin-right: 16px; margin-bottom: 18px;" src="images/glass.jpg" width="100"/>
 
 **Davide Sforza** and Fabio Pellacini. Enforcing Energy Preservation in Microfacet Models. In *Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference*. 2022. DOI: [10.2312/stag.20221258](https://doi.org/10.2312/stag.20221258). Code: [github.com/dsforza96/energy-preservation](https://github.com/dsforza96/energy-preservation)
 <br style="clear: both"/>
