@@ -16,7 +16,6 @@ Antonio D'Orazio, **Davide Sforza**, Fabio Pellacini, and Iacopo Masi. Environme
 <img style="float: left; margin-right: 16px;" src="images/nodegit.jpg" width="200"/>
 
 Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Merging Node Graphs. In *ACM Transactions on Graphics*. 2023. DOI: [10.1145/3618343](https://doi.org/10.1145/3618343). Code: [github.com/edu-rinaldi/NodeGit](https://github.com/edu-rinaldi/NodeGit)
-<br/><br/>
 
 <img style="float: left; margin-right: 16px;" src="images/refractive.jpg" width="200"/>
 
