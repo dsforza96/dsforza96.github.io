@@ -12,6 +12,7 @@ Ph.D. Student in Computer Science at Sapienza University of Rome
 <img style="float: left; margin-left: -115px; margin-top: 97.5px; margin-right: 16px;" src="images/result_envmap.jpg" width="99"/>
 
 Antonio D'Orazio, **Davide Sforza**, Fabio Pellacini, and Iacopo Masi. Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions. In *Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference*. 2024. DOI: [10.2312/stag.20241339](https://doi.org/10.2312/stag.20241339). Code: [github.com/OmnAI-Lab/R-SIREN](https://github.com/OmnAI-Lab/R-SIREN)
+<br style="clear:both"/>
 
 <img style="float: left; margin-right: 16px;" src="images/nodegit.jpg" width="200"/>
 
@@ -21,11 +22,13 @@ Eduardo Rinaldi, **Davide Sforza**, and Fabio Pellacini. NodeGit: Diffing and Me
 <img style="float: left; margin-right: 16px;" src="images/refractive.jpg" width="200"/>
 
 **Davide Sforza** and Fabio Pellacini. Numerical approximations for energy preserving microfacet models. In *Computers & Graphics*. 2023. DOI: [10.1016/j.cag.2023.05.012](https://doi.org/10.1016/j.cag.2023.05.012)
+<br style="clear:both"/>
 
 <img style="float: left; margin-bottom: 32px;" src="images/gold.jpg" width="100"/>
 <img style="float: left; margin-right: 16px; margin-bottom: 32px;" src="images/glass.jpg" width="100"/>
 
 **Davide Sforza** and Fabio Pellacini. Enforcing Energy Preservation in Microfacet Models. In *Smart Tools and Applications in Graphics - Eurographics Italian Chapter Conference*. 2022. DOI: [10.2312/stag.20221258](https://doi.org/10.2312/stag.20221258). Code: [github.com/dsforza96/energy-preservation](https://github.com/dsforza96/energy-preservation)
+<br style="clear:both"/>
 
 <img style="float: left; margin-right: 4px;" src="images/circles.gif" width="98"/>
 <img style="float: left; margin-right: 16px;" src="images/stripes.gif" width="98"/>
@@ -36,7 +39,7 @@ Marzia Riso, **Davide Sforza**, and Fabio Pellacini. pOp: Parameter Optimization
 <img style="float: left; margin-right: 16px;" src="images/bowling.jpg" width="200"/>
 
 Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, Manuel Prandini, Marzia Riso, and **Davide Sforza**. Virtual bowling: launch as you all were there! In *Proceedings of the International Conference on Advanced Visual Interface*. 2020. DOI: [10.1145/3399715.3399848](https://doi.org/10.1145/3399715.3399848). Code: [github.com/antoniomuso/Bowling-VR](https://github.com/antoniomuso/Bowling-VR)
-
+<br style="clear:both"/>
 
 ## Projects
 
