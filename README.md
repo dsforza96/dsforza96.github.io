@@ -74,6 +74,12 @@ Maria De Marsico, Emanuele Panizzi, Francesca Romana Mattei, Antonio Musolino, M
 [github.com/dsforza96/visual-mic](https://github.com/dsforza96/visual-mic)
 <br/><br/>
 
+<img style="float: left; margin-right: 144px" height="64"/>
+
+**Tresette-AI:** Providing an AI for the Game of Tresette. \
+[github.com/max-96/Tresette-AI](https://github.com/max-96/Tresette-AI)
+<br/><br/>
+
 <img style="float: left; margin-left: 1.5px; margin-right: 3.75px; " src="images/simple.jpg" height="64"/>
 <img style="float: left; margin-right: 17.5px" src="images/cypress.jpg" height="64"/>
 
